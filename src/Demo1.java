@@ -11,6 +11,16 @@ public class Demo1 {
 		int result = a + b;
 		System.out.println(result);
 
+		int x = 10;
+		int y = 25;
+
+		if(x < y) {
+			system.out.println("Greater"
+					   } else {
+			system.out.println("Less)
+				}
+		// From Github
+
 	}
 
 	public void add(int a, int b) {
